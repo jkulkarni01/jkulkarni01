@@ -6,9 +6,9 @@ const header = {
 
 const about = {
   // all the properties are optional - can be left empty or deleted
-  link: 'https://ik.imagekit.io/datap/Gk/profile-pic__5__dyEgMqSKy.png?ik-sdk-version=javascript-1.4.3&updatedAt=1671169366088',
+  link: 'https://ik.imagekit.io/datap/Gk/profile-pic__8__l9zMKYvpl.png',
   name: 'Jui Kulkarni',
-  role: 'CSE sophomore at MESCOE',
+  role: 'Final Year Student at MESCoE',
   description:
     'Adaptable and driven with strong work ethic and ability to thrive in team based or individually motivated settings, consistently rewarded for success in planning and operation improvements, offering a quality-focused and systematic approach for solving issues and performing daily tasks',
   resume: 'https://pdfhost.io/v/qRYxoVbjp_Jui_Kulkarni_Resume',
